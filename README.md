@@ -14,3 +14,5 @@ Output
 ```
 
 _© 2026 Thanh Huy Van_
+
+This repository is maintained as the Git and GitHub final project.
